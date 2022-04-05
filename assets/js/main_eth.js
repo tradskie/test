@@ -21,8 +21,8 @@ var cutoffStep=0;
 var withdrawCooldown=0;
 
 var contract;
-const minerAddress = '0x1ae61982c89c2abf554316dec13515a8999d51fc'; // mainnet contract
-const communityWallet = '0xC6cB99854F7c47508EEF78E33aaD7A3Ac8280980'; // current community wallet
+const minerAddress = '0xaA4F20451D03Fd2bF740aA8615F224e2Ee64369A'; // mainnet contract
+const communityWallet = '0x7eC5c8753Ed76A517A5C48DE14F489f334B33ED2'; // current community wallet
 
 var started = true;
 var canSell = true;
